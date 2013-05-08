@@ -1,0 +1,6 @@
+name             'cmake'
+maintainer       'hfinucane'
+maintainer_email 'hfinucane@solvco.com'
+license          'All rights reserved'
+description      'Installs cmake'
+version          '0.0.1'

@@ -1,7 +1,7 @@
 #
 # Author:: Doug MacEachern <dougm@vmware.com>
 # Cookbook Name:: windows
-# Recipe:: cmake
+# Recipe:: default
 #
 # Copyright 2010, VMware, Inc.
 #
