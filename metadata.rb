@@ -1,6 +1,6 @@
 name             'cmake'
 maintainer       'hfinucane'
 maintainer_email 'hfinucane@solvco.com'
-license          'All rights reserved'
+license          'Apache 2.0'
 description      'Installs cmake'
 version          '0.0.1'
